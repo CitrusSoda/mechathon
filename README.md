@@ -1,3 +1,7 @@
-### PYHON, Basic Of Basic
+# MECHATHON
+![mechathon](https://img.shields.io/badge/mechathon-mechathon-pink)
 
-목표 : 파이썬 한시간만에 복습하기
+- 메카톤 동아리 자료 모음 레포지토리입니다
+
+## 파이썬 복습 자료
+[python]()
