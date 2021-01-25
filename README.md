@@ -5,3 +5,6 @@
 
 ## 파이썬 복습 자료
 [파이썬 자료](https://github.com/CitrusSoda/mechathon/tree/main/python)
+
+## OpenCV 자료
+[OpenCV 자료](https://github.com/CitrusSoda/mechathon/tree/main/opencv)
